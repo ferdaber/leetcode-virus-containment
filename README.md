@@ -109,3 +109,7 @@ function contain_virus:
   end
   return walls_built
 ```
+
+## Instructions
+
+Go through each `partN.js` file in order, and when complete, you can combine all of your code in one file and try to submit it via [leetcode](https://leetcode.com/problems/contain-virus/).
